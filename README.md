@@ -1,4 +1,4 @@
-# CPP-Assignements
+# CPP-Assignments
 # C++ Assignments Repository
 
 Welcome to the C++ Assignments Repository!
